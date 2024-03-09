@@ -1,3 +1,6 @@
 [submodule "community"]
 	path = community
 	url = https://github.com/talonhub/community
+[submodule "cursorless-talon"]
+	path = cursorless-talon
+	url = https://github.com/cursorless-dev/cursorless-talon.git
